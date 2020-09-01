@@ -10,3 +10,5 @@ As a solution of the above mentioned problem, I have made an IoT Based Desk Cloc
 - After 20 Minutes, there is a buzzing alarm reminding Blinking Eyes.
 - There is a counter of 20 Seconds in MM:SS format during the break with a message displaying "Blink Your Eyes".
 - It Shows the Time(12 Hours Format), Day and Date.
+
+!(https://github.com/jayprajapati009/Desk-Clock/blob/master/DeskClock%20Isometric%20View.jpg)
